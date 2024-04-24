@@ -6,7 +6,7 @@
 from .triggers import TRouter
 
 __author__=  'zcxw'
-__version__ = "0.0.0"
+__version__ = "0.0.3"
 __all__ = [
     'TRouter',
     "trigger_from_router"
